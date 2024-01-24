@@ -24,6 +24,5 @@ try:
     x = txt.count("!")
     print(sign)
     print(x)
-
 except Exception as e:
     print(e)
